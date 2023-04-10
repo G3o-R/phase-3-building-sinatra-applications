@@ -220,3 +220,5 @@ conventions.
 [soc]: https://en.wikipedia.org/wiki/Separation_of_concerns
 [rerun]: https://github.com/alexch/rerun
 [mvc]: https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller
+
+https://github.com/G3o-R/phase-3-building-sinatra-applications
